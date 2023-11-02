@@ -1,0 +1,2 @@
+fetch http://streamhd4k.com/
+fetch http://targetedattacks.trendmicro.com/
